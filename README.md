@@ -3,7 +3,6 @@
 - ☕ Java Developer
 - 💻 PHP, HTML Developer
 - 🤖 JavaScript Developer
-
 - 📝 Contacte-me no Discord: ``spookão#4901``
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=spookao&count_private=true&theme=nightowl&show_icons=true)

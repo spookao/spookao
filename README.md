@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-4/783451939701522442.png" />
+    <img src="https://discord.c99.nl/widget/theme-2/783451939701522442.png" />
 </p>
 
 ### 👋 Boas!

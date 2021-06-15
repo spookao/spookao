@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://discordapp.com/api/guilds/852674379107532820/widget.png?style=banner3" alt="Discord Banner 3"/>
+    <img src="https://discordapp.com/api/guilds/852674379107532820/widget.png?style=banner4" alt="Discord Banner 4"/>
 </p>
 
 ### 👋 Boas!

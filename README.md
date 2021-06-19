@@ -1,5 +1,4 @@
 ### 👋 Boas!
 
 - ☕ Java Developer
-- 🤖 JavaScript Developer
-- 📝 Contacte-me no Discord: ``mountdev#9942``
+- 📝 Contacte-me no Discord: ``spookão#1906``
